@@ -9,14 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javacodegeeks.examples</groupId>
-	<artifactId>spring-boot-jpa</artifactId>
+	<artifactId>estudio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-jpa</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot JPA</description>
 
 	<properties>
 		<java.version>1.8</java.version>
- <guava.version>21.0</guava.version>
+ 		<guava.version>21.0</guava.version>
  		<!-- password validation -->
 		<passay.version>1.0</passay.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
